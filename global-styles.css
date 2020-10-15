@@ -35,3 +35,13 @@ p{
     text-align: left;
 }
 
+.description{
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    overflow-x: hidden;
+    padding-top: 60px;
+}
