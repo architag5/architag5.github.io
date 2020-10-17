@@ -16,6 +16,18 @@ EMAIL: architag@uci.edu
   <title>About Me</title>
 </head>
 <body>
+  <!--Navigation bar jquery source: https://stackoverflow.com/questions/31954089/how-can-i-reuse-a-navigation-bar-on-multiple-pages-->
+  <div id="nav-placeholder">
+
+  </div>
+
+  <script>
+  $(function(){
+    $("#nav-placeholder").load("nav.html");
+  });
+  </script>
+  <!--end of Navigation bar-->
+
   <h1>About Me</h1>
  
   <p>

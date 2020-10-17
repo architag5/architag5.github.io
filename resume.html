@@ -9,13 +9,25 @@ EMAIL: architag@uci.edu
 <head>
   <meta charset="utf-8">
   <meta name="author" content="Archita Ganesh">
-  <meta name="description" content="Resume">
+  <meta name="description" content="Resume">s
    <!-- you would link to an external stylesheet here! -->
    <link rel = 'stylesheet' href = 'global-styles.css'>
    <!-- you would also link to Bootstrap here! -->
   <title>Resume</title>
 </head>
 <body>
+  <!--Navigation bar jquery source: https://stackoverflow.com/questions/31954089/how-can-i-reuse-a-navigation-bar-on-multiple-pages-->
+  <div id="nav-placeholder">
+
+  </div>
+
+  <script>
+  $(function(){
+    $("#nav-placeholder").load("nav.html");
+  });
+  </script>
+  <!--end of Navigation bar-->
+
   <h1>Resume</h1>
 
   <iframe id="2020Resume" style="border:1px" title="PDF" src="Archita_Ganesh_Resume.pdf" frameborder="1" scrolling="auto" height="1100" width="850" ></iframe>
