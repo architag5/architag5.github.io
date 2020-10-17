@@ -39,6 +39,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 w3schools, stackoverflow
+Fonts: https://developers.google.com/fonts/docs/getting_started
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
