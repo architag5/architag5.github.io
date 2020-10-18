@@ -1,4 +1,4 @@
---Readme document for *author*--
+--Readme document for *Archita Ganesh*--
 
 A reminder on academic integrity, as described in the syllabus.
 
@@ -11,26 +11,32 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
-- */2 Basic HTML content
-- */1 Basic CSS styling
-- */1 Advanced feature
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 1/1 Basic CSS styling
+- 1/1 Advanced feature
 - */2 Responsive layout
 - */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
+- images with alt attributes
+- headings and paragraph text
+- links to external pages
+- multiple pages with navigation
+- ucins from Google Material Icons
 
 
 (b) CSS features
-
+- adding custom fonts
+- modifying padding and margins 
+- modifying colors
 
 
 (c) Advanced features
-
+- Complex page layout with navigation bar
 
 
 3. How long, in hours, did it take you to complete this assignment?
@@ -43,8 +49,7 @@ Fonts: https://developers.google.com/fonts/docs/getting_started
 Fading in images: https://blog.hubspot.com/website/css-fade-in
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
-
+I didn't discuss with other classmates or individuals.
 
 6. Is there anything special we need to know in order to run your code?
 

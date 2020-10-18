@@ -8,21 +8,6 @@ body {
     font-size: 18px;
 }
 
-/*#grad {
-    /*background-image: linear-gradient(to bottom right, #cff4ff, #ffe8ff)*/
-    /*height: 200px;
-    background-image: linear-gradient(to bottom right, #cff4ff, #ffe8ff);
-} */
-/* .opening{
-    text-align: center;
-    align-items: center;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    justify-content: center;
-    position: relative;
-} */
-
 h1{
     font-family: "Delius Unicase","Helvetica", "Arial", sans-serif;
     font-weight: bold;
@@ -57,27 +42,15 @@ h3,h4,h5,h6 {
     font-weight: normal;
 }
 
-
-ul {
-    list-style-type: circle;
-}
-
-ol {
-    list-style-type: lower-roman;
-}
-
 a{
     text-decoration: none;
 }
 
-
 .description{
     height: 100%;
     width: 50%;
-    position: fixed;
-    z-index: 999;
-    top: 0;
+    position: absolute;
+    top: 0; 
     right: 0;
-    overflow-x: hidden;
     padding-top: 60px;
 }

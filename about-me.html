@@ -21,10 +21,15 @@ EMAIL: architag@uci.edu
 </head>
 <body>
   <!--Navigation bar jquery source: https://stackoverflow.com/questions/31954089/how-can-i-reuse-a-navigation-bar-on-multiple-pages-->
-  <div id="nav-placeholder">
+  <div class = "row"> 
+    <div class = "col-md-12">
+      <div id="nav-placeholder">
 
+      </div>    
+
+    </div>
   </div>
-
+  
   <script>
   $(function(){
     $("#nav-placeholder").load("nav.html");
@@ -32,13 +37,40 @@ EMAIL: architag@uci.edu
   </script>
   <!--end of Navigation bar-->
 
-  <h1>ABOUT ME</h1>
- 
+  <div class = "row">
+    <div class = "col-md-6">
+      <h1>ABOUT ME</h1>
+      <img src = 'self.jpg' width = '500' style = "margin-top: 25px"  alt = 'Archita Ganesh'>
+    </div>
+
+    <div class = "col-md-6 description">
+      <p style = "margin-top: 25px; margin-right: 10px;">
+        Hi! Welcome to my personal portfolio! <br> <br>
+        
+        My name is Archita Ganesh
+        and I attend University of California, Irvine.        
+        I am studying Informatics, with a specialization in Organizational Information Technology(OIT).
+        I enjoy the intersection of business   <i class="material-icons">business</i> and technology <i class="material-icons">laptop</i> and hope to find a career in that sector. I am also very passionate about the healthcare space.<br> <br>
+
+        
+        I enjoy meeting new people, learning new ways of thinking, and finding impactful ways that we could integrate technology in out lives.
+        I am also truly passionate about empowering women and underrepresented minorities in tech, as shown in my work as EVP for Women in Information and Computer Sciences(WICS) at UCI 
+        and as a mentor in AppJam+. <br> <br>
+
+
+        I hope to keep on learning and growing within tech and beyond! <br> <br>
+
+        Feel free to check out more about me through <a href = "https://www.linkedin.com/in/archita-ganesh/"> Linkedin</a>!
+      </p>
+    </div>
+    
+  </div>
+<!--   
   <p>
     <img src = 'self.jpg' width = '500' style = "margin-top: 25px"  alt = 'Archita Ganesh'>
-  </p>
+  </p> -->
 
-  <div class = "description">
+  <!-- <div class = "description">
     <p style = "margin-top: 50px; margin-right: 10px;">
         Hi! Welcome to my personal portfolio! <br> <br>
         
@@ -58,7 +90,7 @@ EMAIL: architag@uci.edu
         Feel free to check out more about me through <a href = "https://www.linkedin.com/in/archita-ganesh/"> Linkedin</a>!
 
        
-    </p>
+    </p> -->
 
 
 
