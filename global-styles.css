@@ -13,39 +13,23 @@ body {
     /*height: 200px;
     background-image: linear-gradient(to bottom right, #cff4ff, #ffe8ff);
 } */
-.opening{
+/* .opening{
     text-align: center;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    justify-content: center;
     position: relative;
-    margin-left: auto;
-    margin-right: auto;   
-}
+} */
 
-.fade-in {
-    animation: fadeIn ease 10s;
-    -webkit-animation: fadeIn ease 10s;
-    -moz-animation: fadeIn ease 10s;
-    -o-animation: fadeIn ease 10s;
-    -ms-animation: fadeIn ease 10s;
-    }
-    @keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-    }
-    
-    @-moz-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-    }
-    
-    @-webkit-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-    }
-    
-    @-o-keyframes fadeIn {
-    0% {opacity:0;}
-    100% {opacity:1;}
-    }
+div.opening {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
 
 h1{
     font-family: "Delius Unicase","Helvetica", "Arial", sans-serif;
