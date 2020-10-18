@@ -27,12 +27,22 @@ h1{
     transform: translate(-50%, -50%) */ 
 
 /* } */
-.opening{
+.landing-page{
     text-align: center;
 }
 
 .first-name{
     margin-top:250px;
+}
+
+.resume-display{
+    display:flex;
+    position: relative;
+}
+
+.iframe{
+    text-align :center;
+    border:1px;
 }
 
 
@@ -46,13 +56,25 @@ p{
     text-align: left;
     font-family: "Cormorant Garamond","Helvetica", "Arial", sans-serif;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 h3,h4,h5,h6 {
     font-family: "Cormorant Garamond", "Arial", sans-serif;
     font-weight: normal;
 }
+
+/* @media screen and (max-width:640px){
+
+}
+
+@media screen and (min-width:640px){
+
+}
+
+@media screen and(min-width:1024px){
+
+} */
 
 a{
     text-decoration: none;
