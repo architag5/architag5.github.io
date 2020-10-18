@@ -23,6 +23,12 @@ body {
     position: relative;
 } */
 
+h1{
+    font-family: "Delius Unicase","Helvetica", "Arial", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
 div.opening {
     margin: 0;
     position: absolute;
@@ -31,10 +37,7 @@ div.opening {
     margin-right: -50%;
     transform: translate(-50%, -50%) }
 
-h1{
-    font-family: "Delius Unicase","Helvetica", "Arial", sans-serif;
-    font-weight: bold;
-}
+
 
 h2{
     font-family: "Delius Unicase","Helvetica", "Arial", sans-serif;
