@@ -8,6 +8,10 @@ body {
     font-size: 18px;
 }
 
+.navbar-collapse{
+    justify-content: center;
+}
+
 h1{
     font-family: "Delius Unicase","Helvetica", "Arial", sans-serif;
     font-weight: bold;
