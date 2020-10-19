@@ -51,7 +51,7 @@ Icons: https://www.w3schools.com/icons/google_icons_intro.asp
 Navbar: https://getbootstrap.com/docs/4.0/components/navbar/ and https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_navbar_collapse
 Embedding audio: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
 Embedding resume pdf: https://stackoverflow.com/questions/16468961/how-to-embed-pdf-file-with-responsive-width
-
+Gradient bacground: https://www.w3schools.com/css/css3_gradients.asp
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 No, I didn't consult any classmates or other individuals.
