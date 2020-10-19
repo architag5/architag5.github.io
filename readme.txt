@@ -15,41 +15,46 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - 2/2 Basic HTML content
 - 1/1 Basic CSS styling
 - 1/1 Advanced feature
-- */2 Responsive layout
-- */1 Passes validation checks
+- 2/2 Responsive layout
+- 1/1 Passes validation checks
 - 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-- images with alt attributes
+- image with alt attributes
 - headings and paragraph text
 - links to external pages
 - multiple pages with navigation
-- ucins from Google Material Icons
+- using custom icons(on about me page) from Google Material Icons
 
 
 (b) CSS features
-- adding custom fonts
-- modifying padding and margins 
+- adding custom fonts from Google fonts
+- modifying padding
+- leveraging Bootstrap CSS helpers
 - modifying colors
 
 
 (c) Advanced features
 - Complex page layout with navigation bar
+- embedded HTML5 audio 
 
 
 3. How long, in hours, did it take you to complete this assignment?
-
+25 hours 
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-w3schools, stackoverflow
 Fonts: https://developers.google.com/fonts/docs/getting_started
-Fading in images: https://blog.hubspot.com/website/css-fade-in
+Icons: https://www.w3schools.com/icons/google_icons_intro.asp
+Navbar: https://getbootstrap.com/docs/4.0/components/navbar/ and https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_navbar_collapse
+Embedding audio: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
+Embedding resume pdf: https://stackoverflow.com/questions/16468961/how-to-embed-pdf-file-with-responsive-width
+
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-I didn't discuss with other classmates or individuals.
+
 
 6. Is there anything special we need to know in order to run your code?
-
+Nope 
