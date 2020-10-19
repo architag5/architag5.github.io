@@ -10,7 +10,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
+10/10
 - 1/1 Readme
 - 2/2 Basic HTML content
 - 1/1 Basic CSS styling
@@ -54,7 +54,7 @@ Embedding resume pdf: https://stackoverflow.com/questions/16468961/how-to-embed-
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+No, I didn't consult any classmates or other individuals.
 
 6. Is there anything special we need to know in order to run your code?
-Nope 
+I have published my website to https://architag5.github.io/ . Feel free to pull up my site with that link or using the files! 
