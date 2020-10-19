@@ -22,23 +22,23 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-- image with alt attributes
-- headings and paragraph text
-- links to external pages
-- multiple pages with navigation
-- using custom icons(on about me page) from Google Material Icons
+- Image with alt attributes: on about me page 
+- Headings and paragraph text
+- Links to external pages
+- Multiple pages with navigation: 4 pages
+- Using custom icons(on about me page) from Google Material Icons: business and technology icons
 
 
 (b) CSS features
-- adding custom fonts from Google fonts
-- modifying padding
-- leveraging Bootstrap CSS helpers
-- modifying colors
+- Adding custom fonts from Google fonts
+- Modifying padding and margins
+- Leveraging Bootstrap CSS helpers
+- Modifying colors
 
 
 (c) Advanced features
 - Complex page layout with navigation bar
-- embedded HTML5 audio 
+- Embedded HTML5 audio 
 
 
 3. How long, in hours, did it take you to complete this assignment?
@@ -58,3 +58,15 @@ No, I didn't consult any classmates or other individuals.
 
 6. Is there anything special we need to know in order to run your code?
 I have published my website to https://architag5.github.io/ . Feel free to pull up my site with that link or using the files! 
+
+Explanation for validation:
+- For the W3C validation checker, I had CSS errors and warnings from Bootstrap and not my own styling sheet(My *global-style.css* was validated!). 
+Just wanted to point that out, since I can't correct the Bootstrap errors and warnings.
+- For the AChecker: I listed the reasons as to why I didn't fix the potential problems
+    - Index page: Many of the potential problems were talking about the comments I used to cite my sources,
+the formatting of the Bootstrap stylesheet, and the scripts. 
+    - About Me page: Most of the potential problems were talking about the color of my image, a longer alt(even though the guidelines say it shouldn't be lengthy),
+    my comments I used to cite sources, and the navbar's linking and bootstrap sources.
+    - Resume page: Most of the potential problems were linked to the Source comments. 
+    - Contact page: Most of the potential problems were addressing the Source comment citations and
+    how the nav bar from bootstrap doesn't have meaningful text.
