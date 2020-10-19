@@ -18,6 +18,12 @@ h1{
     font-size: 40px;
 }
 
+figcaption{
+    font-family: "Delius Unicase","Helvetica", "Arial", sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
 /* div.opening { */
    /*  margin: 0;
     position: absolute;
