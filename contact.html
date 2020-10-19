@@ -9,33 +9,35 @@ EMAIL: architag@uci.edu
 <head>
   <meta charset="utf-8">
   <meta name="author" content="Archita Ganesh">
-  <meta name="description" content="Personal Portfolio">
+  <meta name="description" content="Contact">
   <meta name="viewport" content="width=device-width, initial-scale=1">
    <!-- you would link to an external stylesheet here! -->
    <link rel = 'stylesheet' href = 'global-styles.css'>
+   <!-- <script src="https://code.jquery.com/jquery-1.10.2.js"></script> -->
    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Delius Unicase'>
    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family="Cormorant Garamond'>
+   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
    <!-- you would also link to Bootstrap here! -->
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-  <title>Archita's Personal Portfolio</title>
+   <title>Contact</title>
 </head>
 <body>
 
-  <!--Source:https://getbootstrap.com/docs/4.0/components/navbar/ and https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_navbar_collapse-->
-  <nav class="navbar navbar-expand-md bg-light navbar-light">
+ <!--Source:https://getbootstrap.com/docs/4.0/components/navbar/ and https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_navbar_collapse-->
+ <nav class="navbar navbar-expand-md bg-light navbar-light">
 
     <a class="navbar-brand" href="/">AG</a>
-
+  
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
-
+  
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav justify-content-center">
-        <li class="nav-item active">
+        <li class="nav-item">
           <a class="nav-link" href="/">Home</a>
         </li>
         <li class="nav-item">
@@ -44,39 +46,17 @@ EMAIL: architag@uci.edu
         <li class="nav-item">
           <a class="nav-link" href="resume.html">Resume</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item active">
           <a class="nav-link" href="contact.html">Contact</a>
         </li>
       </ul>
     </div>
   </nav>
-  
-
- <!-- Navigation bar jquery source: https://stackoverflow.com/questions/31954089/how-can-i-reuse-a-navigation-bar-on-multiple-pages-->
-  <!-- <div id="navigation-bar">
-
-  </div>
-
-  <script>
-  $(function(){
-    $("#navigation-bar").load("nav.html");
-  });
-  </script> -->
-<!--end of Navigation bar -->
 
   <div class = "landing-page">
-    <h1 class = "first-name">ARCHITA GANESH</h1>
-    <h2 class = "last-name"> Student + SWE + PM </h2>  
+    <h1 class = "contact"> <a href = "mailto: architag@uci.edu"> Email</a></h1>
+    <h1 class = "last-name"> <a href = "https://www.linkedin.com/in/archita-ganesh/" target = "_blank"> Linkedin</a> </h1>  
   </div>
-  
-
-  <!-- <img src = 'young.jpg' width = '330' style = "float: left" alt = 'Archita Ganesh as a kid'> 
- 
-
-
-  <img style="float:right;" src = 'summer.jpg' width = '390' alt = 'Archita Ganesh during summer internship at Microsoft'>  -->
-
-  
 
 </body>
 </html>

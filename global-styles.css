@@ -19,9 +19,8 @@ h1{
 }
 
 figcaption{
-    font-family: "Delius Unicase","Helvetica", "Arial", sans-serif;
-    font-size: 20px;
-    margin-top: 15px;
+    font-family: "Cormorant Garamond","Helvetica", "Arial", sans-serif;
+    font-size: 18px;
 }
 
 /* div.opening { */
@@ -37,7 +36,7 @@ figcaption{
     text-align: center;
 }
 
-.first-name{
+.first-name, .contact{
     margin-top:250px;
 }
 
